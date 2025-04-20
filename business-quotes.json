@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "api_name": "Business Quotes API",
+    "version": "1.0",
+    "author": "Your Name",
+    "description": "A collection of business quotes about trust and integrity",
+    "total_quotes": 20,
+    "last_updated": "2023-11-15"
+  },
+  "quotes": [
+    {
+      "id": 1,
+      "quote": "Trust is the glue of life. It's the most essential ingredient in effective communication. It's the foundational principle that holds all relationships.",
+      "author": "Stephen R. Covey",
+      "category": "trust",
+      "tags": ["relationships", "communication"]
+    },
+    {
+      "id": 2,
+      "quote": "Integrity is doing the right thing, even when no one is watching.",
+      "author": "C.S. Lewis",
+      "category": "integrity",
+      "tags": ["ethics", "honesty"]
+    },
+    {
+      "id": 3,
+      "quote": "A brand is a promise delivered. Trust is earned when that promise is kept consistently.",
+      "author": "Howard Schultz",
+      "category": "trust",
+      "tags": ["branding", "consistency"]
+    },
+    {
+      "id": 4,
+      "quote": "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not.",
+      "author": "Oprah Winfrey",
+      "category": "integrity",
+      "tags": ["ethics", "character"]
+    },
+    {
+      "id": 5,
+      "quote": "Trust is built with consistency.",
+      "author": "Lincoln Chafee",
+      "category": "trust",
+      "tags": ["consistency", "reliability"]
+    },
+    {
+      "id": 6,
+      "quote": "Integrity is choosing your thoughts and actions based on values rather than personal gain.",
+      "author": "Chris Karcher",
+      "category": "integrity",
+      "tags": ["values", "ethics"]
+    },
+    {
+      "id": 7,
+      "quote": "The currency of real networking is not greed but generosity.",
+      "author": "Keith Ferrazzi",
+      "category": "trust",
+      "tags": ["networking", "generosity"]
+    },
+    {
+      "id": 8,
+      "quote": "Good business leaders create a vision, articulate the vision, passionately own the vision, and relentlessly drive it to completion.",
+      "author": "Jack Welch",
+      "category": "integrity",
+      "tags": ["leadership", "vision"]
+    },
+    {
+      "id": 9,
+      "quote": "Trust is the highest form of human motivation. It brings out the very best in people.",
+      "author": "Stephen R. Covey",
+      "category": "trust",
+      "tags": ["motivation", "performance"]
+    },
+    {
+      "id": 10,
+      "quote": "In the end, all you have is your reputation.",
+      "author": "Oprah Winfrey",
+      "category": "integrity",
+      "tags": ["reputation", "legacy"]
+    },
+    {
+      "id": 11,
+      "quote": "Trust is built when someone is vulnerable and not taken advantage of.",
+      "author": "Bob Vanourek",
+      "category": "trust",
+      "tags": ["vulnerability", "relationships"]
+    },
+    {
+      "id": 12,
+      "quote": "Ethics is knowing the difference between what you have a right to do and what is right to do.",
+      "author": "Potter Stewart",
+      "category": "integrity",
+      "tags": ["ethics", "decision-making"]
+    },
+    {
+      "id": 13,
+      "quote": "A business that makes nothing but money is a poor business.",
+      "author": "Henry Ford",
+      "category": "integrity",
+      "tags": ["purpose", "values"]
+    },
+    {
+      "id": 14,
+      "quote": "Trust starts with trustworthy leadership. It must be built into the corporate culture.",
+      "author": "Barbara Brooks Kimmel",
+      "category": "trust",
+      "tags": ["leadership", "culture"]
+    },
+    {
+      "id": 15,
+      "quote": "Who you are speaks so loudly I can't hear what you're saying.",
+      "author": "Ralph Waldo Emerson",
+      "category": "integrity",
+      "tags": ["authenticity", "character"]
+    },
+    {
+      "id": 16,
+      "quote": "Trust is like the air we breathe - when it's present, nobody really notices; when it's absent, everybody notices.",
+      "author": "Warren Buffett",
+      "category": "trust",
+      "tags": ["importance", "awareness"]
+    },
+    {
+      "id": 17,
+      "quote": "The strength of a nation derives from the integrity of the home.",
+      "author": "Confucius",
+      "category": "integrity",
+      "tags": ["foundation", "society"]
+    },
+    {
+      "id": 18,
+      "quote": "Trust is the easiest thing in the world to lose, and the hardest thing in the world to get back.",
+      "author": "R. Williams",
+      "category": "trust",
+      "tags": ["fragility", "reputation"]
+    },
+    {
+      "id": 19,
+      "quote": "Integrity without knowledge is weak and useless, and knowledge without integrity is dangerous and dreadful.",
+      "author": "Samuel Johnson",
+      "category": "integrity",
+      "tags": ["knowledge", "wisdom"]
+    },
+    {
+      "id": 20,
+      "quote": "Trust takes years to build, seconds to break, and forever to repair.",
+      "author": "Unknown",
+      "category": "trust",
+      "tags": ["time", "repair"]
+    }
+  ]
+}
